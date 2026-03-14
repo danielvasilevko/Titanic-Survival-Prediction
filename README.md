@@ -1,5 +1,9 @@
 # Titanic-Survival-Prediction
-This repository contains a Jupyter notebook and dataset for analysis of Titanic survivorship.
+This repository contains a Jupyter notebook and dataset for analysis of Titanic survivorship for a Kaggle competition.
+
+# Kaggle Competition
+- Submission for Kaggle competition Titanic - Machine Learning from Disaster.
+- Link to competition: https://www.kaggle.com/competitions/titanic 
 
 # Repository Structure
 - Titanic_Survival - Jupyter notebook with all code.
